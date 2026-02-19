@@ -1,12 +1,13 @@
 # Instructions for me
 
+## To make a new thingy
+
+`hugo new type/thing.md`
+
+## To send it out
+
 Push whatever changes to main
 
 rebuild with `hugo -d`
 
-```shell
-cd public
-git add .
-git commit -m "Update site"
-git push -f origin gh-pages
-```
+do the commit add push madness
