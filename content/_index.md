@@ -4,4 +4,9 @@ draft = false
 title = ''
 +++
 
-pagina prima
+Hiya! You're looking at a basic blog template here...
+
+Here's what I've played around with this far:
+
+- [Yaps](/yaps/)
+- [Books](/books/)
