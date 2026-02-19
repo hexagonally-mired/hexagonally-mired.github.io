@@ -8,5 +8,5 @@ Hiya! You're looking at a basic blog template here...
 
 Here's what I've played around with thus far:
 
-- [Yaps](/yaps/)
+- [Yaps](/posts/)
 - [Books](/books/)
