@@ -11,3 +11,5 @@ Push whatever changes to main
 rebuild with `hugo -d`
 
 do the commit add push madness
+
+`git push origin gh-pages`
