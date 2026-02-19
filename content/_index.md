@@ -1,7 +1,14 @@
 +++
 date = '2026-02-19T14:45:48-08:00'
 draft = false
-title = 'Heyyyy'
+title = 'Home'
 +++
 
-Good god this had better work
+
+Welcome to my blog!
+
+Check out my sections:
+
+- [Posts
+  ](/posts/)
+- [Books](/books/)
