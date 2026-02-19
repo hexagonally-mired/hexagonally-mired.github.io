@@ -4,4 +4,4 @@ draft = false
 title = 'Post'
 +++
 
-Another post!!
+Hi, I made a post for testing purposes
