@@ -17,6 +17,6 @@ category = "categories"
 tag = "tags"
 
 [params]
-author = "Mihir"
+author = "Mihir P"
 showReadingTime = true
 disableDarkModeToggle = false
