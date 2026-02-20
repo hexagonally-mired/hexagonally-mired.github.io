@@ -4,11 +4,9 @@ draft = false
 title = 'Home'
 +++
 
-
 Welcome to my blog!
 
 Check out my sections:
 
-- [Posts
-  ](/posts/)
+- [Posts](/posts/)
 - [Books](/books/)
