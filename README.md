@@ -13,6 +13,7 @@ Push whatever changes to main
 ⌘+S on whatever you changed
 
 ```
+hugo
 git add .
 git commit -m "I made another update :D"
 git push
