@@ -1,6 +1,6 @@
 baseURL = "https://hexagonally-mired.github.io/"
 languageCode = "en-us"
-title = "Mihir's Blog"
+title = "Just a little something by Mihir P"
 theme = "PaperMod"
 description = "A clean Hugo blog powered by PaperMod"
 enableRSS = true
