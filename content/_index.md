@@ -10,3 +10,4 @@ Check out my sections, not up to date yet:
 
 - [Posts](/posts/)
 - [Books](/books/)
+- [Unselected](/unselected/)

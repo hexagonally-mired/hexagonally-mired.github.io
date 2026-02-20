@@ -1,6 +1,6 @@
 # Instructions for me
 
-## To make a new thingy
+## To make a new page:
 
 `hugo new type/thing.md`
 
@@ -8,8 +8,14 @@
 
 Push whatever changes to main
 
-rebuild with `hugo -d`
+## If the theme deletes itself
 
-do the commit add push madness
+`git submodule update --init --recursive`
 
-`git push origin gh-pages`
+
+
+
+
+
+
+I hate vibecoding
