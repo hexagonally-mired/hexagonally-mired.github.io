@@ -1,6 +1,6 @@
 baseURL = "https://hexagonally-mired.github.io/"
 languageCode = "en-us"
-title = "Just a little something by Mihir P"
+title = "hexagonally.mired"
 theme = "PaperMod"
 description = "A clean Hugo blog powered by PaperMod"
 enableRSS = true
@@ -17,6 +17,6 @@ category = "categories"
 tag = "tags"
 
 [params]
-author = "Mihir P"
+author = "Mihir P."
 showReadingTime = true
 disableDarkModeToggle = false
