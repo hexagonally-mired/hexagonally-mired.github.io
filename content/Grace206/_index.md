@@ -9,6 +9,11 @@ title = 'Hello, Grace!'
 Um yeah that's it
 
 I have so much to say, but it's all locked in my head in a different language.
+
+Here's another cool picture I took
+
+![another image](/images/Flower.jpg)
+
 Instead, you get an image
 
 ![an image](/images/Fake-Keyhole.jpg)
