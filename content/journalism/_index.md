@@ -1,8 +1,8 @@
 +++
 date = '2026-02-20T18:08:22-08:00'
 draft = false
-title = 'Newpress'
-type = "newpress"
+title = 'Journalism'
+type = "journalism"
 +++
 
 Hi there!
