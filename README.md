@@ -1,28 +1,7 @@
-# Instructions for me
+# [hexagonally-mired.github.io](https://hexagonally-mired.github.io/ "https://hexagonally-mired.github.io/")
 
-## To make a new page:
+Hiya, this is a public page for, uh... me!!
 
-`hugo new type/thing.md`
+I used [Hugo](https://gohugo.io) to make it. 
 
-## To send it out
-
-Push whatever changes to main
-
-### Actually while I'm at it why dont i streamline the whole shebang
-
-⌘+S on whatever you changed
-
-```
-hugo
-git add .
-git commit -m "I made another update :D"
-git push
-```
-
-## If the theme deletes itself
-
-`git submodule update --init --recursive`
-
-I hate vibecoding
-
-### Never Have Spaces In Images
+ok bye
