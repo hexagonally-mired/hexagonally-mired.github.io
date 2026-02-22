@@ -19,7 +19,7 @@ Below are my sections, which are not up to date yet:
 - [Posts](/posts/)
 - [Books](/books/)
 - [Unselected](/unselected/)
-- [Newpress](/newpress/)
+- [Journalism](/journalism/)
 
 Also here's a rabbit: ![a rabbit](/images/Dino-Bunny.jpg)
 
