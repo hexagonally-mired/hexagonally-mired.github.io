@@ -5,6 +5,9 @@ theme = "PaperMod"
 description = "A clean Hugo blog powered by PaperMod"
 enableRSS = true
 
+disqusShortname = "hexagonally-mired"
+
+
 [pagination]
 pagerSize = 10
 
