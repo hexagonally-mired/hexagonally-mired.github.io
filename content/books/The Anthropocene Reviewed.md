@@ -3,6 +3,7 @@ date = '2026-02-19T14:47:12-08:00'
 draft = false
 title = 'The Anthropocene Reviewed'
 type = "books"
+comments = true
 +++
 
 ### My notes on John Green's *The Anthropocene Reviewed*

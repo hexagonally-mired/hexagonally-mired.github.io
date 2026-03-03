@@ -5,8 +5,9 @@ theme = "PaperMod"
 description = "A clean Hugo blog powered by PaperMod"
 enableRSS = true
 
-disqusShortname = "hexagonally-mired"
 
+[services.disqus]
+  shortname = "hexagonally-mired"
 
 [pagination]
 pagerSize = 10
@@ -24,4 +25,5 @@ author = "Mihir P."
 showReadingTime = true
 disableDarkModeToggle = false
 favicon = "favicon.ico"
+comments = true
 mainSections = ["posts"]
