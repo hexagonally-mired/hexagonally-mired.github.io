@@ -1,7 +1,7 @@
 +++
 date = '2026-03-18T18:58:30-07:00'
 draft = false
-title = 'OpenSourceAI'
+title = 'Personal AI, Off the Cloud'
 +++
 
 # Can We Have Open-Source AI Hosting on Personal Servers?
