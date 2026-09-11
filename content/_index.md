@@ -20,6 +20,7 @@ Below are my sections, which are not up to date yet:
 - [Books](/books/)
 - [Unselected](/unselected/)
 - [Journalism](/journalism/)
+- [Works in Progress](/works/)
 
 Also here's a rabbit: ![a rabbit](/images/Dino-Bunny.jpg)
 
