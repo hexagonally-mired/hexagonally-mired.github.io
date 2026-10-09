@@ -1,7 +1,7 @@
 +++
 date = '2026-10-09T19:08:37Z'
-draft = true
-title = 'Women'
+draft = false
+title = 'name 50 women'
 +++
 
 # A list of women (and their occupations)
